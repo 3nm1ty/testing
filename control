@@ -1,0 +1,9 @@
+Package: com.m4fn3.k2gecamen
+Name: K2gecamen
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: K2gecamen daaaaa!!
+Maintainer: mafu
+Author: mafu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
